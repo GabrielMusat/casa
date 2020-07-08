@@ -1,0 +1,113 @@
+{
+	"cocina": {
+		"frigorifico": {
+			"modelo": "Bosch KGV33VW30",
+			"precio": 245,
+			"url": "https://www.amazon.es/Bosch-KGV33VW30-congeladora-Frigor%C3%ADfico-Independiente/dp/B004ROI4AI"
+		},
+		"tostadora": {
+			"modelo": "Philips Daily HD2581/00 -Tostador 830 W, Doble Ranura, Color Blanco",
+			"precio": 20,
+			"url": "https://www.amazon.es/Philips-HD2581-00-Tostadora-Descongelar/dp/B01N9XEUH6/ref=sr_1_4"
+		},
+		"vajilla": {
+			"modelo": "AmazonBasics - Vajilla de 18 piezas, Líneas suaves, 6 servicios",
+			"precio": 50,
+			"url": "https://www.amazon.es/AmazonBasics-Vajilla-piezas-L%C3%ADneas-servicios/dp/B07F82H7JJ"
+		},
+		"bateria cocina": {
+			"modelo": "AmazonBasics - Juego de utensilios de cocina antiadherentes, 15 piezas",
+            "precio": 55,
+            "url": "https://www.amazon.es/AmazonBasics-Utensilios-Cocina-antiadherentes-Piezas/dp/B07481LPMF/ref=pd_vtp_201_2/257-6668454-3043349"
+		},
+		"cuchillos": {
+			"modelo": "MAXELLPOWER Set DE 5 Cuchillos Tijeras PELADOR Copper Stone Juego ESMALTADOS Acero Garantia (Black Stone Edition)",
+			"precio": 16,
+			"url": "https://www.amazon.es/MAXELLPOWER-Cuchillos-Tijeras-ESMALTADOS-Garantia/dp/B07MCVPKQD/ref=pd_bxgy_img_2/257-6668454-3043349"
+		},
+		"vasos": {
+			"modelo": "",
+            "precio": 0,
+            "url": ""
+		},
+        "microondas": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        },
+		"cubiertos": {
+			"modelo": "Monix Europa - Set de cubiertos 24 piezas de acero inoxidable con cuchillo chuletero, acabado pulido brillo",
+            "precio": 27,
+            "url": "https://www.amazon.es/Monix-Europa-cubiertos-inoxidable-chuletero/dp/B081QRLTGX/ref=pd_bxgy_img_3/257-6668454-3043349"
+		},
+		"mesa": {
+			"modelo": "",
+            "precio": 0,
+            "url": ""
+		},
+		"sillas": {
+			"modelo": "",
+            "precio": 0,
+            "url": ""
+		},
+		"trapos": {
+			"modelo": "",
+            "precio": 0,
+            "url": ""
+		}
+	},
+	"salon": {
+		"robot aspirador": {
+			"modelo": "Ecovacs Deebot N79S",
+            "precio": 200,
+            "url": "https://www.amazon.es/dp/B077HW9XM7?tag=ad5555-21&linkCode=osi&th=1&psc=1"
+		},
+		"sofa": {
+			"modelo": "",
+            "precio": 0,
+            "url": ""
+		},
+        "tele": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        }
+	},
+    "cuarto gabi": {
+        "cama": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        },
+        "escritorio": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        },
+        "leds": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        },
+        "mesa": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        }
+    },
+    "cuarto arantxa": {
+
+    },
+    "baño": {
+        "toallas": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        },
+        "cortinas": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        }
+    }
+}
