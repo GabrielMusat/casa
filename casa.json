@@ -101,7 +101,21 @@
         }
     },
     "cuarto arantxa": {
-
+        "escritorio": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        },    
+         "espejo": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        },     
+         "silla": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        },    
     },
     "baño": {
         "báscula": {
