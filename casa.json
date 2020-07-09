@@ -1,7 +1,7 @@
 {
     "cocina": {
         "frigorifico": {
-            "modelo": "Bosch KGV33VW30", 
+            "modelo": "Bosch KGV33VW30",
             "precio": 245,
             "url": "https://www.amazon.es/Bosch-KGV33VW30-congeladora-Frigor%C3%ADfico-Independiente/dp/B004ROI4AI"
         },
@@ -26,39 +26,24 @@
             "url": "https://www.amazon.es/MAXELLPOWER-Cuchillos-Tijeras-ESMALTADOS-Garantia/dp/B07MCVPKQD/ref=pd_bxgy_img_2/257-6668454-3043349"
         },
         "vasos": {
-            "modelo": "",
-            "precio": 0,
-            "url": ""
+            "modelo": "Luminarc New America Vasos, Vidrio sodo, Set de 6",
+            "precio": 10.65,
+            "url": "https://www.amazon.es/Luminarc-Estuche-Vasos-Modelo-Am%C3%A9rica/dp/B009AEC17W/ref=sr_1_12"
         },
         "microondas": {
-            "modelo": "",
-            "precio": 0,
-            "url": ""
+            "modelo": "Cecotec Proclean 3010 - Microondas, Capacidad de 20l, Revestimiento Ready2Clean, 700 W de Potencia",
+            "precio": 52.22,
+            "url": "https://www.amazon.es/Cecotec-3010-revestimiento-Ready2Clean-FullCrystal/dp/B07JZ9L9DQ/ref=sxin_7_ac_d_rm?th=1"
         },
         "cubiertos": {
             "modelo": "Monix Europa - Set de cubiertos 24 piezas de acero inoxidable con cuchillo chuletero, acabado pulido brillo",
             "precio": 27,
             "url": "https://www.amazon.es/Monix-Europa-cubiertos-inoxidable-chuletero/dp/B081QRLTGX/ref=pd_bxgy_img_3/257-6668454-3043349"
         },
-        "mesa": {
-            "modelo": "",
-            "precio": 0,
-            "url": ""
-        },
-        "sillas": {
-            "modelo": "",
-            "precio": 0,
-            "url": ""
-        },
-        "trapos": {
-            "modelo": "",
-            "precio": 0,
-            "url": ""
-        },
         "tendedero": {
-            "modelo": "",
-            "precio": 0,
-            "url": ""
+            "modelo": "Metaltex Vulcano Black-Tendedero Acero con Alas 18m. y Recubrimiento Epoxy, Negro, 18 m",
+            "precio": 17,
+            "url": "https://www.amazon.es/Metaltex-Vulcano-Black-Tendedero-Acero-Recubrimiento/dp/B07Z9Q5JMH/ref=sr_1_4"
         }
     },
     "salon": {
@@ -68,11 +53,16 @@
             "url": "https://www.amazon.es/dp/B077HW9XM7?tag=ad5555-21&linkCode=osi&th=1&psc=1"
         },
         "sofa": {
+            "modelo": "BOLLSTANÄS",
+            "precio": 279,
+            "url": "https://www.ikea.com/es/es/p/bollstanas-sofa-3-plazas-chaiselongue-skiftebo-gris-oscuro-00472962/"
+        },
+        "tele": {
             "modelo": "",
             "precio": 0,
             "url": ""
         },
-        "tele": {
+        "cojines": {
             "modelo": "",
             "precio": 0,
             "url": ""
@@ -105,24 +95,24 @@
             "modelo": "",
             "precio": 0,
             "url": ""
-        },    
-         "espejo": {
+        },
+        "espejo": {
             "modelo": "",
             "precio": 0,
             "url": ""
-        },     
-         "silla": {
+        },
+        "silla": {
             "modelo": "",
             "precio": 0,
             "url": ""
-        },    
+        }
     },
     "baño": {
         "báscula": {
             "modelo": "",
             "precio": 0,
             "url": ""
-        },    
+        },
         "toallas": {
             "modelo": "",
             "precio": 0,
