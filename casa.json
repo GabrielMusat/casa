@@ -54,6 +54,11 @@
             "modelo": "",
             "precio": 0,
             "url": ""
+        },
+        "tendedero": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
         }
     },
     "salon": {
@@ -110,6 +115,13 @@
             "url": ""
         },
         "cortinas": {
+            "modelo": "",
+            "precio": 0,
+            "url": ""
+        }
+    },
+    "otros": {
+        "herramientas": {
             "modelo": "",
             "precio": 0,
             "url": ""
